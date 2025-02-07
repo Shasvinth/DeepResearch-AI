@@ -1,0 +1,86 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+package-lock.json
+yarn.lock
+
+# Environment and secrets
+.env
+.env.local
+.env.*
+!.env.example
+*.pem
+.npmrc
+
+# Build and output
+dist/
+build/
+out/
+.next/
+*.tsbuildinfo
+.turbo
+.vercel
+
+# IDE and editors
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+debug.log
+
+# Testing and coverage
+coverage/
+.nyc_output/
+*.lcov
+
+# Operating System
+.DS_Store
+Thumbs.db
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Project specific
+research-*.md
+!README.md
+output/
+temp/
+.cache/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variable files
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
