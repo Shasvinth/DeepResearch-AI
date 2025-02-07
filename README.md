@@ -144,7 +144,7 @@ MIT © Shasvinth Srikanth
 
 <div align="center">
 
-**[GitHub](https://github.com/Shasvinth)** • **[Twitter](https://twitter.com/shasvinth)**
+**[GitHub](https://github.com/Shasvinth)** • **[Twitter](https://x.com/ShasvinthS)**
 
 Made with ❤️ by Shasvinth Srikanth
 
